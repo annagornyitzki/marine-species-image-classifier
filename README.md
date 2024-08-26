@@ -10,8 +10,8 @@
 - [License](#license)
 - [Contact](#contact)
 
-## Introduction
-Provide a brief overview of the project, explaining what it does, the problem it solves, and why it's useful.
+## Project Description
+This project involves building a machine learning model that automatically identifies and classifies marine species from underwater images. The model is designed for users to easily classify images by marine species. The project leverages Google Cloud Platform (GCP) for data storage, model training, deployment, and analysis. Python, SQL, JavaScript, and Jupyter notebooks are used throughout to ensure reliable data handling, model development, and user interaction.
 
 ## Features
 List the main features of the project. For example:
