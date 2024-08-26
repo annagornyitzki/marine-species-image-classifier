@@ -1,4 +1,4 @@
-# Marine Species Image Classifier Using Machine Learning on Google Cloud Computing
+# Marine Species Identification with ML on GCP Using Jupyter Notebooks
 
 ## Table of Contents
 - [Introduction](#introduction)
