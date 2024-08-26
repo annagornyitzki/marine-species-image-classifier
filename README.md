@@ -36,7 +36,7 @@ Detail the steps to install and set up the project. Include commands where appli
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/username/marine-species-image-classifier.git
 
 # Navigate to the project directory
 cd repository-name
