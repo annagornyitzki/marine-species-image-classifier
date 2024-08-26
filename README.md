@@ -13,11 +13,24 @@
 ## Project Description
 This project involves building a machine learning model that automatically identifies and classifies marine species from underwater images. The model is designed for users to easily classify images by marine species. The project leverages Google Cloud Platform (GCP) for data storage, model training, deployment, and analysis. Python, SQL, JavaScript, and Jupyter notebooks are used throughout to ensure reliable data handling, model development, and user interaction.
 
+## Tools and Technologies
+- Google Cloud Platform:
+  Cloud Storage, AI Platform, Cloud SQL, BigQuery, Cloud Functions, App Engine
+- Python:
+  Data preprocessing, model development, API creation, and interaction with GCP services
+- SQL:
+  Database management, querying, and data analysis
+- JavaScript:
+  For frontend development and visualization
+- Jupyter Notebooks:
+  Data exploration, model experimentation, and documentation
+  
 ## Features
-List the main features of the project. For example:
-- Feature 1
+### 
 - Feature 2
 - Feature 3
 
 ## Installation
 Detail the steps to install and set up the project. Include commands where applicable.
+
+## Contact
