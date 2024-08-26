@@ -1,4 +1,4 @@
-# Marine Species Identification with ML on GCP Using Jupyter Notebooks
+# Marine Species Image Classifier with ML on GCP Using Jupyter Notebooks
 
 ## Table of Contents
 - [Introduction](#introduction)
