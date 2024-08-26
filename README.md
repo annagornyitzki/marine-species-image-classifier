@@ -43,6 +43,8 @@ cd repository-name
 # Install dependencies
 npm install
 
+
+---
 ## Contact
 - Email: annagornyitzki@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anna-gornyitzki-016669288/
