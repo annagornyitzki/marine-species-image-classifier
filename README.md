@@ -43,6 +43,7 @@ Detail the steps to install and set up the project. Include commands where appli
 
   # Install dependencies
   npm install
+```bash
 
 ## Contact
 - Email: annagornyitzki@gmail.com
