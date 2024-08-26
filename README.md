@@ -42,7 +42,7 @@ git clone https://github.com/username/repository-name.git
 cd repository-name
 
 # Install dependencies
-npm install
+npm install```
 
 ## Contact
 - Email: annagornyitzki@gmail.com
