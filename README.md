@@ -25,7 +25,7 @@ This project involves building a machine learning model that automatically ident
 - **Jupyter Notebooks:**
   Data exploration, model experimentation, and documentation
   
-## Features
+## Key Features
 ### 
 - Feature 2
 - Feature 3
@@ -34,3 +34,5 @@ This project involves building a machine learning model that automatically ident
 Detail the steps to install and set up the project. Include commands where applicable.
 
 ## Contact
+- Email: annagornyitzki@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anna-gornyitzki-016669288/
