@@ -35,14 +35,14 @@ Detail the steps to install and set up the project. Include commands where appli
 
 
 ```bash
-# Clone the repository
-git clone https://github.com/username/repository-name.git
+  # Clone the repository
+  git clone https://github.com/username/repository-name.git
 
-# Navigate to the project directory
-cd repository-name
+  # Navigate to the project directory
+  cd repository-name
 
-# Install dependencies
-npm install```
+  # Install dependencies
+  npm install
 
 ## Contact
 - Email: annagornyitzki@gmail.com
