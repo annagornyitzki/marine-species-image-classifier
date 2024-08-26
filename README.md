@@ -33,16 +33,14 @@ This project involves building a machine learning model that automatically ident
 ## Installation
 Detail the steps to install and set up the project. Include commands where applicable.
 
-
 ```bash
-    # Clone the repository
-    git clone https://github.com/username/repository-name.git
+  # Clone the repository
+  git clone https://github.com/username/repository-name.git
 
-    # Navigate to the project directory
-    cd repository-name
-
-    # Install dependencies
-    npm install
+  # Navigate to the project directory
+  cd repository-name
+  # Install dependencies
+  npm install
 
 ## Contact
 - Email: annagornyitzki@gmail.com
