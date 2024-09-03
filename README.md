@@ -10,7 +10,6 @@
 - [Installation](#installation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
@@ -66,9 +65,6 @@ Description
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request if you would like to contribute.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 - Email: annagornyitzki@gmail.com
