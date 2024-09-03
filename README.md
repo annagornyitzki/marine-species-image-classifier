@@ -31,32 +31,15 @@ This project involves building a machine learning model that automatically ident
   Data exploration, model experimentation, and documentation
   
 ## Dataset
-- **Source**: [Link to dataset or description of how the dataset was gathered]
-- **Classes**: [Number of classes and description]
-- **Preprocessing**: Describe any preprocessing steps such as resizing, normalization, augmentation, etc.
+- **Source**: [https://www.kaggle.com/datasets/mikoajfish99/marine-animal-images]
+  
+## Training Notebook
+Description
+- **Detailed Jupyter Notebook**: [Details of the hardware or cloud environment used, e.g., GCP Vertex AI, local machine with GPU, etc.]
 
-## Model Architecture
-- **Framework**: [TensorFlow, Keras, PyTorch, etc.]
-- **Model Type**: [e.g., Convolutional Neural Network, Transfer Learning using ResNet, etc.]
-- **Layers**: [Brief description of the model layers]
-- **Activation Functions**: [e.g., ReLU, Softmax]
-- **Loss Function**: [e.g., Categorical Crossentropy]
-- **Optimizer**: [e.g., Adam, SGD]
-
-## Training
-- **Environment**: [Details of the hardware or cloud environment used, e.g., GCP Vertex AI, local machine with GPU, etc.]
-- **Training Data Split**: [Training/Validation split ratio]
-- **Batch Size**: [Number of images per batch]
-- **Epochs**: [Number of training epochs]
-- **Augmentation**: [Any data augmentation techniques applied]
-- **Learning Rate**: [Initial learning rate and any decay schedule]
-
-
-## Evaluation
-- **Test Data**: [Description of the test dataset]
-- **Metrics**: [Accuracy, Precision, Recall, F1-Score, etc.]
-- **Confusion Matrix**: [Optional: Include a confusion matrix image or explain how to generate it]
-- **ROC Curve**: [Optional: Include a ROC curve or explain how to generate it]
+## Testing Notebook
+Description
+- **Detailed Jupyter Notebook**: [Details of the hardware or cloud environment used, e.g., GCP Vertex AI, local machine with GPU, etc.]
 
 ## Installation
 ### Prerequisites
