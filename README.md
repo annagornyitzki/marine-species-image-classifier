@@ -19,9 +19,9 @@ This project involves building a machine learning model that automatically ident
 - **Python:**
   Data preprocessing, model development, API creation, and interaction with GCP services
 - **SQL:**
-  Database management, querying, and data analysis (In Progress will be done by 9/10/24)
+  Database management, querying, and data analysis (**In Progress will be done by 9/10/24**)
 - **JavaScript:**
-  For frontend development and visualization  (In Progress will be done by 9/10/24)
+  For frontend development and visualization  (**In Progress will be done by 9/10/24**)
 - **Jupyter Notebooks:**
   Data exploration, model experimentation, and documentation
   
