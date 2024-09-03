@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Project Description](#projectdescription)
+- [Project Description](#project-description)
 - [Tools and Technologies](#tools-and-technologies)
 - [Dataset](#dataset)
-- [Training Notebook](#trainingnotebook)
-- [Testing Notebook](#testingnotebook)
+- [Training Notebook](#training-notebook)
+- [Testing Notebook](#testing-notebook)
 - [Installation](#installation)
 - [Results](#results)
 - [Contributing](#contributing)
