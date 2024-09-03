@@ -39,7 +39,7 @@ Detail the steps to install and set up the project. Include commands where appli
 git clone https://github.com/username/marine-species-image-classifier.git
 
 # Navigate to the project directory
-cd repository-name
+cd marine-species-image-classifier
 
 # Install dependencies
 npm install
