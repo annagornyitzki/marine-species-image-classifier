@@ -5,8 +5,7 @@
 - [Project Description](#project-description)
 - [Tools and Technologies](#tools-and-technologies)
 - [Dataset](#dataset)
-- [Training Notebook](#training-notebook)
-- [Testing Notebook](#testing-notebook)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Installation](#installation)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -41,10 +40,6 @@ Main Steps:
 - Train Models
 - Evaluation of Models
 - **Detailed Jupyter Notebook**: [(https://github.com/annagornyitzki/marine-species-image-classifier/blob/main/JupyterCode/MarineSpeciesMLImageClassifierTRAIN-Bucket.ipynb)]
-
-## Testing Notebook
-Description
-- **Detailed Jupyter Notebook**: [Details of the hardware or cloud environment used, e.g., GCP Vertex AI, local machine with GPU, etc.]
 
 ## Installation
 ### Prerequisites
