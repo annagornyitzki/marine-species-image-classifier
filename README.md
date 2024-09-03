@@ -40,7 +40,7 @@ Main Steps:
 - Backbone Analysis
 - Train Models
 - Evaluation of Models
-- **Detailed Jupyter Notebook**: [Details of the hardware or cloud environment used, e.g., GCP Vertex AI, local machine with GPU, etc.]
+- **Detailed Jupyter Notebook**: [JupyterCode/MarineSpeciesMLImageClassifierTRAIN-Bucket.ipynb]
 
 ## Testing Notebook
 Description
