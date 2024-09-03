@@ -38,7 +38,11 @@ Main Steps:
 - Backbone Analysis
 - Train Models
 - Evaluation of Models
-- **Detailed Jupyter Notebook**: [(https://github.com/annagornyitzki/marine-species-image-classifier/blob/main/JupyterCode/MarineSpeciesMLImageClassifierTRAIN-Bucket.ipynb)]
+- Create model
+- Test Model
+- Results
+- **Jupyter Notebook Source Code**: [(https://github.com/annagornyitzki/marine-species-image-classifier/blob/main/JupyterCode/MarineSpeciesMLImageClassifierTRAIN-Bucket.ipynb)]
+- **Detailed Jupyter Notebook pdf with Visualizations** []
 
 ## Installation
 
