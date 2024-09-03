@@ -7,7 +7,6 @@
 - [Dataset](#dataset)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Installation](#installation)
-- [Results](#results)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -42,30 +41,17 @@ Main Steps:
 - **Detailed Jupyter Notebook**: [(https://github.com/annagornyitzki/marine-species-image-classifier/blob/main/JupyterCode/MarineSpeciesMLImageClassifierTRAIN-Bucket.ipynb)]
 
 ## Installation
-### Prerequisites
-- [Python version]
-- [List of necessary libraries, e.g., TensorFlow, Keras, NumPy, etc.]
 
 ### Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/annagornyitzki/marine-species-image-classifier.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd marine-species-image-classifier
     ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Results
-- **Final Accuracy**: [Training and testing accuracy]
-- **Loss**: [Final loss values]
-- **Sample Predictions**: [Optional: Include images with predictions overlaid]
-- **Model File**: [Link to the saved model file, if available]
-
+    
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request if you would like to contribute.
 
