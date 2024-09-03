@@ -5,11 +5,9 @@
 - [Project Description](#projectdescription)
 - [Tools and Technologies](#tools-and-technologies)
 - [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
+- [Training Notebook](#trainingnotebook)
+- [Testing Notebook](#testingnotebook)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -58,21 +56,6 @@ Description
 3. Install the required libraries:
     ```bash
     pip install -r requirements.txt
-    ```
-
-
-## Usage
-1. **Training the Model**:
-    ```bash
-    python train.py --epochs 50 --batch_size 32
-    ```
-2. **Testing the Model**:
-    ```bash
-    python test.py --model_path path_to_saved_model --test_data path_to_test_data
-    ```
-3. **Predicting New Images**:
-    ```bash
-    python predict.py --image_path path_to_image --model_path path_to_saved_model
     ```
 
 ## Results
