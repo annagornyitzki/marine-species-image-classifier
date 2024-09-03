@@ -30,7 +30,7 @@ This project involves building a machine learning model that automatically ident
 ## Dataset
 - **Source**: [https://www.kaggle.com/datasets/mikoajfish99/marine-animal-images]
   
-## Training Notebook
+## Jupyter Notebook
 Main Steps:
 - Set Up (importing dependencies, libraries, constants)
 - Loading Data into Local Storage
